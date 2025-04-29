@@ -1,0 +1,25 @@
+encoding:
+  Gender:
+    Male: 0
+    Female: 1
+  Size:
+    S: 0
+    M: 1
+    L: 2
+    XL: 3
+  Category:
+    Clothing: 0
+    Footwear: 1
+    Outerwear: 2
+    Accessories: 3
+  Season:
+    Spring: 0
+    Summer: 1
+    Fall: 2
+    Winter: 3
+  Subscription Status:
+    "No": 0
+    "Yes": 1
+  Discount Applied:
+    "No": 0
+    "Yes": 1
